@@ -8,4 +8,4 @@
 - [Lab 6 - Parallelizing techniques II](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming/tree/main/Lab6)
 - [Lab 7 - MPI Programming](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming/tree/main/Lab7%20-%20MPI)
 - [Lab 8 - Distributed protocols](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming/tree/main/Lab8%20-%20Distributed%20Protocols)
-- [Team project - **coming soon**]()
+- [Team project](https://github.com/DiaconuAna/Parallel-and-Distributed-Programming/tree/main/Team%20Project)
